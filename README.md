@@ -1,3 +1,7 @@
+
+Uploading CMP .mov…
+![CMP-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/49387df7-727e-4b59-be10-5c21ac22fd49)
+
 This is a Kotlin Multiplatform project targeting Android, iOS, Web.
 
 * `/composeApp` is for code that will be shared across your Compose Multiplatform applications.
